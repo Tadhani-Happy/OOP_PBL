@@ -2,7 +2,7 @@ package CLG_PRACTICE;
 
 import java.util.Scanner;
 
-public class P_1 {
+public class P-1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -41,3 +41,4 @@ public class P_1 {
     }
 
 }
+
