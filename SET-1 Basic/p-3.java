@@ -1,5 +1,3 @@
-package CLG_PRACTICE;
-
 import java.util.Scanner;
 
 public class P-3 {
@@ -28,3 +26,4 @@ public class P-3 {
         sc.close();
     }
 }
+
