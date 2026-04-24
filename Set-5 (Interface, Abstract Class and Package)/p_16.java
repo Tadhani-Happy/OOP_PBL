@@ -1,4 +1,3 @@
-// File Name: P_16.java
 
 interface Classify {
     String getDivision(double average);
